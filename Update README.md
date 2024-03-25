@@ -1,12 +1,14 @@
 # VoteringsPortalen: Mobile application
 # Project Overview
 
-This project is coded in Dart and HTML, utilizing data sourced exclusively from the API provided by riksdagen.se.
+This mobile application aims to enhance political transparency in Sweden's Riksdag. Our idea stemmed from the observation that very few Swedish citizens are aware of their party's voting records in the Riksdag, often leading to uncertainty about whether their chosen party's actions align with their beliefs. We simply asked ourselves: Does the average Swedish citizen truly understand what is happening in the Swedish Riksdag? The answer was no; staying updated required too much effort.
 
+As a solution, we developed a user-friendly mobile application where users can quickly access relevant Riksdag votes. Here, users can gain insights into the parties' stances on specific political questions and see if the parties are keeping their political promises. Furthermore, we have added more functions such as providing data about specific members (ledamöter) such as their attendance rates and their yes/no voting ratings compared to their party.
 
-## Purpose
+By providing a clear, user-friendly view of what's happening in our Riksdag, we hope that our app empowers users to become more politically informed citizens.
 
-The primary aim of this application is to enhance political transparency. It serves as a tool to showcase past and upcoming votes, providing a comprehensive view of legislative activities. By offering insights into what has been voted on and what is scheduled for the future, the app aims to contribute to a better understanding of political processes and outcomes.
+## Our Data
+All data within our application is directly gathered from Riksdagen's open APIs.
 
 ## Installation
 
@@ -72,5 +74,3 @@ Now, you can launch the application directly from your device and conduct real-w
 
 For additional information and troubleshooting, refer to the [Flutter documentation](https://flutter.dev/docs/get-started/install) or your platform-specific guidelines.
 `
-
-
