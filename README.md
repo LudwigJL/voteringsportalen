@@ -1,11 +1,11 @@
 # VoteringsPortalen: Mobile application
 # Project Overview
 
-This mobile application aims to enhance political transparency in Sweden's Riksdag. Our idea stemmed from the observation that very few Swedish citizens are aware of their party's voting records in the Riksdag, often leading to uncertainty about whether their chosen party's actions align with their beliefs. We simply asked ourselves: Does the average Swedish citizen truly understand what is happening in the Swedish Riksdag? The answer was no; staying updated required too much effort.
+This mobile application aims to enhance political transparency of the Swedish Parliament(Riskdagen). Our idea stemmed from the observation that very few Swedish citizens are aware of their party's voting records, often leading to uncertainty about whether their chosen party's actions align with their beliefs or not. We simply asked ourselves: Does the average Swedish citizen truly understand what is happening in the Swedish Parliament? The answer was no; staying updated required too much effort.
 
-As a solution, we developed a user-friendly mobile application where users can quickly access relevant Riksdag votes. Here, users can gain insights into the parties' stances on specific political questions and see if the parties are keeping their political promises. Furthermore, we have added more functions such as providing data about specific members (ledamöter) such as their attendance rates and their yes/no voting ratings compared to their party.
+As a solution, we developed a user-friendly mobile application where users can quickly access relevant parliament votings. Users can here gain insights into the parties' stances on specific political questions and see if the parties are keeping up their political promises. Furthermore, we have added more functions such as providing data about specific party members (ledamöter) such as their attendance rates and their yes/no voting ratings compared to their party.
 
-By providing a clear, user-friendly view of what's happening in our Riksdag, we hope that our app empowers users to become more politically informed citizens.
+By providing a clear, user-friendly view of what's happening in the parliament, we hope that our app empowers users to become more politically informed citizens.
 
 ## Our Data
 All data within our application is directly gathered from Riksdagen's open APIs.
